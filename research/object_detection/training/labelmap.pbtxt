@@ -1,0 +1,13 @@
+item {
+    id: 1
+    name: 'kartu_as'
+}item {
+    id: 2
+    name: 'dahlia'
+}item {
+    id: 3
+    name: 'mawar'
+}item {
+    id: 4
+    name: 'tulip'
+}
